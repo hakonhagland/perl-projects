@@ -19,6 +19,10 @@ projects with Perl? Check out the project ideas below.
   respond to pull request and issues submitted to your project page
   and your project source code repository.
 
+  - Even if you don't expect anyone to be able to contribute to your
+    project, you could still create a project page, since this
+    provides a place where others can provide feedback on your project.
+
 - Do you have limited time to contribute? If you do not have time to
   contribute, maybe you have time to provide a short feedback on the
   project's project site? For example,
