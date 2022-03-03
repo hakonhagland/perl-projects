@@ -21,7 +21,7 @@ projects with Perl? Check out the project ideas below.
 
 - Do you have limited time to contribute? If you do not have time to
   contribute, maybe you have time to provide a short feedback on the
-  project's project site. For example,
+  project's project site? For example,
 
   - if the project is a good idea or not,
   - things you would like the contributors to focus on,
