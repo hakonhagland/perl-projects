@@ -11,8 +11,8 @@ project ideas below.
   code, see [this](https://github.com/hakonhagland/perl-qt5-project)
   page for an example.
 
-  - The only requirement is that you (or
-  other one of the collaborators listed on the project page) are available to
+  - The only requirement is that you (or one of the collaborators
+  listed on the project page) are available to
   respond to pull request and issues submitted to your project page
   and your project source code repository.
 
