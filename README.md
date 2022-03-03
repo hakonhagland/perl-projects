@@ -1,6 +1,6 @@
 # Perl project ideas
 
-- Looking for ways to contribute to or collaborate on open source
+- Looking for ways to contribute to, or collaborate on, open source
 projects with Perl? Check out the project ideas below.
 
 - Do you have a new project idea? Submit an issue here describing your
