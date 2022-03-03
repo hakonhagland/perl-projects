@@ -19,7 +19,8 @@ projects with Perl? Check out the project ideas below.
   respond to pull request and issues submitted to your project page
   and your project source code repository.
 
-- Do you have limited time to contribute? Consider providing feedback on the
+- Do you have limited time to contribute? If you do not have time to
+  contribute, maybe you have time to provide a short feedback on the
   project's project site. For example,
 
   - if the project is a good idea or not,
