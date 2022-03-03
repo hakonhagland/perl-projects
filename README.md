@@ -33,5 +33,4 @@ projects with Perl? Check out the project ideas below.
 
 ## List of projects
 
-- [OTOBO ticketing system](https://otobo.de/en/community)
 - [Qt5](https://github.com/hakonhagland/perl-qt5-project)
