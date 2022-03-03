@@ -19,6 +19,13 @@ projects with Perl? Check out the project ideas below.
   respond to pull request and issues submitted to your project page
   and your project source code repository.
 
+- Do you have limited time to contribute? Consider providing feedback on the
+  project's project site. For example,
+
+  - if the project is a good idea or not,
+  - things you would like the contributors to focus on,
+  - other ideas ...
+
 ## List of projects
 
 - [Qt5](https://github.com/hakonhagland/perl-qt5-project)
