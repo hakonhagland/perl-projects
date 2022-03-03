@@ -3,8 +3,11 @@
 - Looking for a way to contribute to open source and Perl? Check out the
 project ideas below.
 
-- Want to collaborate on a project? Submit a pull request here, or open an
-  issue and provide a link to your GitHub project page.
+- Want to collaborate on a project? Submit an issue here describing your
+  idea and I will consider adding it to the list of project below; or better: do
+  the work yourself and submit a pull request here which provides a link to your
+  GitHub project page. I will then consider merging into the list of
+  projects below.
 
   - The project page should explain the purpose of the project and refer to a GitHub
   repository with source
