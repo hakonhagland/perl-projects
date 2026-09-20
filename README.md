@@ -35,3 +35,4 @@ projects with Perl? Check out the project ideas below.
 
 - [Qt5](https://github.com/hakonhagland/perl-qt5-project)
 - [parse-xlsx](https://github.com/hakonhagland/parse-xlsx-project)
+- [OTOBO](https://otobo.org)
